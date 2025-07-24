@@ -1,0 +1,12 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Cidade de Númeria (2) - Lago da Sabedoría (6)
+2,0,13,6,67,0
+# Rota 487 (11) - Cidade de Númeria (2)
+11,North,0,2,South,0
+# Rota 488 (5) - Cidade de Númeria (2)
+5,South,2,2,North,0
+# Lago da Sabedoría (6) - Cidade de Bluesteel (31)
+6,13,0,31,0,70
+# Rota 488.. (22) - Rota 488 (5)
+22,South,0,5,North,0

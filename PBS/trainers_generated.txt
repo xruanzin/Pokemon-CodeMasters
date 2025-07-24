@@ -1,0 +1,12 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CACADORDEINSETOS,Marques]
+Items = DIREHIT
+LoseText = ...
+Pokemon = WURMPLE,5
+Pokemon = METAPOD,7
+#-------------------------------
+[MAYRLA,Blue,2]
+LoseText = Hang on, this makes no sense...
+Pokemon = COMBEE,6
+Pokemon = GIRAFARIG,6
